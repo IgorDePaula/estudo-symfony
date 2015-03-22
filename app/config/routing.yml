@@ -1,0 +1,4 @@
+teste_core:
+    resource: "@TesteCoreBundle/Controller/"
+    type:     annotation
+    prefix:   /
